@@ -1,0 +1,7 @@
+{
+  "name": "ConfDuocSB",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
